@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "title": "Hệ thống đang bảo trì",
     "message": "GBIM đang được nâng cấp..."
   },
