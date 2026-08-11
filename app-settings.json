@@ -7,7 +7,7 @@
   "update": {
     "enabled": true,
     "version": "1.2.0",
-    "closeable": false,
+    "closeable": true,
     "title": "Có phiên bản mới",
     "message": "Vui lòng cập nhật ứng dụng.",
     "androidUrl": "",
