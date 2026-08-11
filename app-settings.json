@@ -6,8 +6,8 @@
   },
   "update": {
     "enabled": true,
-    "version": "1.0.3",
-    "closeable": true,
+    "version": "1.0.7",
+    "closeable": false,
     "title": "Có phiên bản mới",
     "message": "Vui lòng cập nhật ứng dụng.",
     "androidUrl": "",
