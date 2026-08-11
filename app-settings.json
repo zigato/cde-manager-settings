@@ -1,15 +1,15 @@
 {
   "maintenance": {
     "enabled": false,
-    "title": "Hệ thống đang bảo trì",
-    "message": "GBIM đang được nâng cấp..."
+    "title": "",
+    "message": ""
   },
   "update": {
     "enabled": true,
-    "version": "1.0.7",
+    "version": "",
     "closeable": false,
-    "title": "Có phiên bản mới",
-    "message": "Vui lòng cập nhật ứng dụng.",
+    "title": "",
+    "message": "",
     "androidUrl": "",
     "iosUrl": ""
   }
