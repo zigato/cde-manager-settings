@@ -10,7 +10,7 @@
     "closeable": true,
     "title": "Có phiên bản mới",
     "message": "Vui lòng cập nhật ứng dụng.",
-    "androidUrl": "https://github.com/zigato",
-    "iosUrl": "https://github.com/zigato"
+    "androidUrl": "https://deploygate.com/organizations/project-gqxgx/platforms/android/apps/com.bvc.megacde.staging",
+    "iosUrl": "https://deploygate.com/organizations/project-gqxgx/platforms/android/apps/com.bvc.megacde.staging"
   }
 }
