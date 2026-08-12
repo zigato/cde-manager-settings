@@ -6,7 +6,7 @@
   },
   "update": {
     "enabled": true,
-    "version": "1.0.7",
+    "version": "1.0.8",
     "closeable": true,
     "title": "Có phiên bản mới",
     "message": "Vui lòng cập nhật ứng dụng.",
