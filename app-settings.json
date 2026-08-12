@@ -7,7 +7,7 @@
   "update": {
     "enabled": true,
     "version": "1.0.7",
-    "closeable": false,
+    "closeable": true,
     "title": "Có phiên bản mới",
     "message": "Vui lòng cập nhật ứng dụng.",
     "androidUrl": "https://github.com/zigato",
