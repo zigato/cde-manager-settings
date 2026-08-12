@@ -1,16 +1,16 @@
 {
   "maintenance": {
     "enabled": false,
-    "title": "",
-    "message": ""
+    "title": "Hệ thống đang bảo trì",
+    "message": "GBIM đang được nâng cấp..."
   },
   "update": {
     "enabled": true,
-    "version": "",
+    "version": "1.0.7",
     "closeable": false,
-    "title": "",
-    "message": "",
-    "androidUrl": "",
-    "iosUrl": ""
+    "title": "Có phiên bản mới",
+    "message": "Vui lòng cập nhật ứng dụng.",
+    "androidUrl": "https://github.com/zigato",
+    "iosUrl": "https://github.com/zigato"
   }
 }
